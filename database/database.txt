@@ -1,0 +1,4 @@
+Polymorphism  គឺអាចអោយយើង perform សម្មភាពមួយ ដោយវិធីសាស្រ្ដផ្សេងៗគ្នា។ 
+Polymorphism មាន២ 
+ - Static Polymorphism (Compile-time Polymorphism) ->  ប្រភេទនៃ Polymorphism​ នេះ achieved ដោយ overloading method
+ - Dynamic Polymorphism(Runtime Polymorphism) -> ប្រភេទនៃ Polymorphism​ នេះ achieved ដោយ override method
